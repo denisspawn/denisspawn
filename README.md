@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"><img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/></p>
 
 <!--
 **denisspawn/denisspawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
